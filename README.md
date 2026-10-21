@@ -94,6 +94,10 @@ This tool can support dataset preparation for:
 * Computer vision research.
 * Custom image annotation workflows.
 
+## Application Preview
+
+![Polygon Annotation Tool](screenshots/Screenshot 2026-10-21 165537.png)
+
 ## Contributions
 
 Suggestions, bug reports, and improvements are welcome through GitHub Issues and Pull Requests.
