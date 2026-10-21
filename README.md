@@ -96,7 +96,7 @@ This tool can support dataset preparation for:
 
 ## Application Preview
 
-![Polygon Annotation Tool](screenshots/Screenshot 2026-10-21 165537.png)
+![Polygon Annotation Tool](screenshots/Screenshot2026-10-21165537.png)
 
 ## Contributions
 
